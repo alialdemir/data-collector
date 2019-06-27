@@ -1,0 +1,13 @@
+:root {
+  /* colors */
+  --dc-color: #2a2b5f;
+  --text-color: #fff;
+  --hover-color: rgba(209, 209, 240, 0.2);
+  --span-color: #d1d1f0;
+
+  /* units */
+  --max-width: 1240px;
+  --gutter: 20px;
+  --border-radius: 4px;
+  --font-size: 16px;
+}

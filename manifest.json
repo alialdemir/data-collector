@@ -1,0 +1,9 @@
+{
+  "name": "Data Collector",
+  "version": "1.0",
+  "description": "Data Collector",
+  "manifest_version": 2,
+  "chrome_url_overrides": {
+    "newtab": "index.html"
+  }
+}
